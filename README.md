@@ -1,2 +1,2 @@
-# Bogan
-Neiroset
+# Bogdan
+Neiroset Bogdana
